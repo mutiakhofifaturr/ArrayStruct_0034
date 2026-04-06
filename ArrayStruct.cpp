@@ -7,4 +7,6 @@ int main() {
 
   // deklarasi tanpa inisialisasi
     int datamu[5];
+
+     // cara akses (membaca atau mengambil isi array)
 }
