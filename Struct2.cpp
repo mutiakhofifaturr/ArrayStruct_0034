@@ -15,5 +15,7 @@ struct mahasiswa
 };
 
 int main(){
+     // deklarasi variable struct
+    mahasiswa mhs;
     
 }
